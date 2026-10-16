@@ -1,0 +1,13 @@
+{
+  "appId": "cl.ventaspro.app",
+  "appName": "Ventas Pro",
+  "webDir": "www",
+  "server": {
+    "url": "https://fer-desktop.tail968dd5.ts.net",
+    "cleartext": false,
+    "errorPath": "sin-conexion.html"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
